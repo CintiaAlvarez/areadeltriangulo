@@ -1,0 +1,2 @@
+# areadeltriangulo
+Created with CodeSandbox
